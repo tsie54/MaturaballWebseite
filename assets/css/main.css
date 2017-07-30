@@ -4439,6 +4439,7 @@
 	}
 	
 	div.transbox {
+<<<<<<< HEAD
     margin: 30px;
     background-color: #ffffff;
     border: 1px solid black;
@@ -4450,4 +4451,8 @@
 .mainsponsoring{
     background-color: #000040
 }
+=======
+		opacity: 1;
+	}	
+>>>>>>> 5d6630741dea9432a4d7ad33cb11957408435a24
 	
