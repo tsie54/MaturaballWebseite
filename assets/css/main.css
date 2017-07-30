@@ -4430,7 +4430,23 @@
 			}
 
 		}
-		
+
+
+/* Hauptsponsoring */
+.mainsponsoring{
+    background-color: #000040;
+}
+
+.mainsponsoring-inner{
+    width: 70em;
+    margin: 1em
+    
+}
+
+.mainsponsoring-divimage{
+    margin: 5% !important;
+}
+
 		
 /*  Own Classes   */
 
