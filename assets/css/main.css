@@ -3467,7 +3467,7 @@
 		-ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background: #f64242;
+		background: #000040;
 		box-shadow: none;
 		color: #ffffff;
 		height: 100%;
@@ -3521,7 +3521,7 @@
 			transition: color 0.2s ease-in-out;
 			-webkit-tap-highlight-color: transparent;
 			border: 0;
-			color: #fbb5b5;
+			color: #9999ff;
 			cursor: pointer;
 			display: block;
 			height: 3.25em;
