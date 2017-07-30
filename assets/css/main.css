@@ -3339,7 +3339,7 @@
 
 		#header.alt {
 			top: 0;
-			background: #F64747;
+			background: #000040;
 		}
 
 		#header .logo {
@@ -4430,3 +4430,19 @@
 			}
 
 		}
+		
+		
+/*  Own Classes   */
+
+	.divimage {
+		margin: 10% !important;
+	}
+	
+	div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+	
