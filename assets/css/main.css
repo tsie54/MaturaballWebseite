@@ -4465,6 +4465,15 @@
 	
 /*  Maturanten-Profil   */
 
+	.nav-anker{
+		margin-left: 10.5em !important;
+	}
+	
+		.nav-anker2{
+		margin-left: 14.3em !important;
+	}
+
+
 	.klassen {
 		margin: auto;
 		margin-left: 13em;
