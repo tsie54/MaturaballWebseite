@@ -4465,6 +4465,14 @@
 	
 /*  Maturanten-Profil   */
 
+	.klassen {
+		margin: auto;
+		margin-left: 13em;
+		margin-bottom: -12em;
+		margin-top: 4em;
+		font-family: "Apple", sans-serif;
+	}
+
 	.img-circular{
 		width: 200px !important;
 		margin-left: 2em;
