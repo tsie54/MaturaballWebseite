@@ -4529,3 +4529,67 @@
 		font-size: .87em;
 		font-family: "varela round", sans-serif;
 	}
+	
+	/*  Busrouten  */
+	
+	.bus-route{
+		width: 30em;
+		height: 40em;
+		margin-left: auto;
+		margin-right: auto;
+        text-align: center;
+		
+/* 		border: 5px solid white;
+		border-radius: 100px !important; */
+		float: left;
+	}
+	
+	.bus-route-header{
+		font-size: 1.2em;
+		margin: 0 !important;
+	}
+	
+	.preis {
+		color: #58071c;
+		font-weight: bold;
+		margin-top: 5px;
+		font-size: 16px;
+		margin: 0 !important;
+	}
+	
+	.haltestellen {
+		color: #64686d;
+		font-weight: 600;
+		font-size: 15px;
+		margin: 0 !important;
+		margin-bottom: 3.10em;
+	}
+	
+	.info-haltestellen{
+		margin: 0 !important;
+		margin-bottom: 1.4em !important;
+		font-weight: 400;
+		font-size: 11px;
+		color: #64686d;
+	}
+	
+	.rueckfahrt {
+				margin: 0 !important;
+		margin-bottom: 1.4em !important;
+		font-weight: 400;
+		font-size: 13px;
+		color: #64686d;
+	}
+	
+	.row-1{
+		height: 40em;
+		display: flex;
+		align-items: center
+	}
+	
+	.row-2 {
+		height: 40em;
+		display: flex;
+		align-items: center;
+		margin-top: 3.10em;
+	}
